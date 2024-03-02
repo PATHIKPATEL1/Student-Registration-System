@@ -1,0 +1,97 @@
+
+body{
+
+background-image:url("../image/backhome.jpg");
+background-size:cover;
+background-attachment: fixed;
+background-repeat:no-repeat;
+}
+
+.home-slider{
+    width: 1400px;
+    height:270px;
+    margin: 50px auto;
+    border-radius:20px;
+    box-shadow: 0px 0px 20px 5px grey;
+    position: relative;
+    overflow: hidden;
+}
+
+.home-slider figure img{
+    width: 1400px;
+    height: 270px;
+    float: left;
+}
+
+.home-slider figure{
+    position: relative;
+    width: 12600px;
+    margin: 0px;
+    left: 0px;
+    animation: hslider 30s infinite linear;
+}
+
+
+@keyframes hslider{
+    0%{left:0px;}
+    10%{left:0px;}
+    16%{left:-1400px;}
+    22%{left:-1400px;}
+    28%{left:-2800px;}
+    34%{left:-2800px;}
+    40%{left:-4200px;}
+    46%{left:-4200px;}
+    52%{left:-5600px;}
+    58%{left:-5600px;}
+    65%{left:-7000px;}
+    70%{left:-7000px;}
+    75%{left:-8400px;}
+    80%{left:-8400px;}
+    85%{left:-9800px;}
+    90%{left:-9800px;}
+    95%{left:-11200px;}
+    100%{left:-11200px;}
+}
+
+
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: darkblue;
+}
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+} 
+
+
+
+#im{
+	width:180px;
+	height:80px;
+	text-align: center; 
+	margin: 50px;
+}
+
+
+#rcorners1 {
+    background:rgba(180,180,180,0.4);
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px 5px grey;
+    margin:40px auto;
+    width: 300px;
+    height: 320px;    
+}
+#rcorners2{
+    border-radius: 25px 25px 0px 0px;
+    background: #87CEEB;
+    width: 300px;
+    height: 100px;    
+}
+

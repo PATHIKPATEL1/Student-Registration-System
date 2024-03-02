@@ -1,0 +1,30 @@
+            body{
+
+                    background-image:url("../image/backsuccess.jpg");
+                    background-size:cover;
+                    background-attachment: fixed;
+                    background-repeat:no-repeat;
+                }
+                
+
+            button {
+                background-color: #4CAF50;
+                color: white;
+                padding: 14px 20px;
+                margin-top: 240px;
+                border: none;
+                cursor: pointer;
+                width: 10%;
+            }
+
+            #rcorners1 {
+                background:rgba(180,180,180,0.4);
+                border-radius: 30px;
+                box-shadow: 0px 0px 20px 5px grey;
+                margin:40px auto 0px;
+                width: 80%;
+                height: auto;    
+                        }
+                        button:hover {
+    opacity: 0.6;
+}

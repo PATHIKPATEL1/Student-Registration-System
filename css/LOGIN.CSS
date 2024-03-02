@@ -1,0 +1,74 @@
+
+body{
+background-image:url("../image/backlogin.jpg");
+background-size:cover;
+background-attachment: fixed;
+background-repeat:no-repeat;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.4;
+}
+.im:visited {
+    opacity: 0.4;
+}
+
+.im:hover {
+    opacity: 0.4;
+}
+.im:checked{
+    opacity: 0.2;
+}
+
+
+.back {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+.container {
+    padding: 10px;
+}
+
+#rcorners1 {
+    background:rgba(180,180,180,0.3);
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px 5px grey;
+    margin:30px auto;
+    margin-left: 100px;
+    width: 440px;
+    height: 680px;    
+}
+#rcorners2{
+    border-radius: 25px 25px 0px 0px;
+    background: #87CEEB;
+    width: 440px;
+    height: 150px;   
+    margin: 0px 0px;
+}
+
+#log{
+    margin: -12px auto;
+    padding: 20px;
+}
