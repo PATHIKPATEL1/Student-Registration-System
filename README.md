@@ -23,3 +23,6 @@ Simplifies the registration process for students through intuitive online forms,
 
 **System Analysis:**
 The proposed Student Registration System represents a paradigm shift from manual to automated processes, offering numerous benefits such as time savings, cost reduction, and improved data accuracy. By leveraging technology to streamline registration workflows, educational institutions can enhance operational efficiency and deliver superior student experiences.
+
+![image](https://github.com/PATHIKPATEL1/Student-Registration-System-Web/assets/161973323/4123ad5c-5640-460a-ae24-d906751016dd)
+
