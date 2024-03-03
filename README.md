@@ -1,4 +1,4 @@
-# Student-Registration-System
+# Student-Registration-System-Web
 
 **Overview:**
 The Student Registration System is a comprehensive web-based solution tailored for educational institutions to streamline student data management. It offers a user-friendly interface for administrators and students alike, enhancing efficiency and accuracy in handling student records.
